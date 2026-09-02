@@ -4,8 +4,8 @@
 @toc Declaration
 @toc Signers
 
-@{Declaration|"The Declaration" LINK Declaration}
-@{Signers|"Signers" LINK Signers}
+@{"The Declaration" LINK "Declaration"}
+@{"Signers" LINK "Signers"}
 
 The Declaration of Independence of the thirteen united States of America.
 
@@ -17,7 +17,7 @@ This preservation edition uses the National Archives transcription of the Stone 
 @endnode
 
 @node Declaration "The Declaration"
-@{Contents|"Contents" LINK Main}
+@{"Contents" LINK "Main"}
 
 In Congress, July 4, 1776
 
@@ -87,7 +87,7 @@ We, therefore, the Representatives of the united States of America, in General C
 @endnode
 
 @node Signers "Signers of the Declaration"
-@{Contents|"Contents" LINK Main}
+@{"Contents" LINK "Main"}
 
 The following delegates are listed by state in the National Archives transcription.
 
